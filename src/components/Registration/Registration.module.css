@@ -1,0 +1,22 @@
+.containerForm {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    padding: 10px;
+}
+
+.button {
+    margin: 15px;
+}
+
+.registration {
+    font-family: Roboto;
+}

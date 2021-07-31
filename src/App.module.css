@@ -1,0 +1,13 @@
+.container {
+
+    border-bottom: 1px solid black;
+    padding-bottom: 50px;
+}
+
+body {
+    background: rgb(131,58,180);
+    background: linear-gradient(0deg, rgba(131,58,180,1) 0%, rgba(253,29,29,0.7413340336134453) 41%, rgba(252,176,69,1) 100%);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 800px;
+}

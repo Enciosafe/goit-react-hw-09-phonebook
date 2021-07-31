@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    height: 700px;
+}
+
+
+.itemLeft {
+    margin: 10px;
+    padding-right: 5em;
+    border-right: 1px solid black;
+}
+
+.itemRight {
+    margin: 10px;
+    padding-left: 5em;
+    border-left: 1px solid black;
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    text-align: center;
+}
+
+.Phonebook {
+    font-family: Roboto;
+}

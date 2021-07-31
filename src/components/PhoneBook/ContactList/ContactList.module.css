@@ -1,0 +1,19 @@
+.list {
+    margin-top: 50px;
+}
+
+.listItem {
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.listItem:hover {
+    background-color: tomato;
+    cursor: pointer;
+}
+
+.button {
+    margin-left: 50px;
+    margin-right: -20px;
+}
+
